@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": "Pr_ID1",
+            "name": "zara_tshirt",
+            "display_name": "yellow tshirt",
+            "image": "/images/tshirt.png",
+            "price": {
+                "currency": "EUR",
+                "amount": 15
+            }
+        },
+        {
+            "id": "Pr_ID2",
+            "name": "zara_dress",
+            "display_name": "floral dress",
+            "image": "/images/dress.png",
+            "price": {
+                "currency": "EUR",
+                "amount": 25
+            }
+        }
+    ]
+}
